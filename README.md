@@ -1,1 +1,4 @@
-# OSCTF_2024_Write-ups
+# OSCTF 2024 Write-ups
+Team Name : BITSkrieg
+Rank : #2
+
