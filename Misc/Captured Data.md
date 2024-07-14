@@ -13,3 +13,6 @@ Upon examination of the data, a pattern emerged:
    - Replace 'bc' with 1
 
 2. The resulting binary string, when decoded, reveals the flag.
+
+## Flag
+OSCTF{1nf0_d1spl4c3d}
