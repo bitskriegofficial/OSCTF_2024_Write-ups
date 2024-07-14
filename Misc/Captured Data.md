@@ -1,4 +1,4 @@
-# Captured Data Analysis
+# Captured Data
 
 An xlsx file was provided containing seemingly random occurrences of 'abcdef' and 'bc'.
 
