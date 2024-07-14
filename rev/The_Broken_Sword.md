@@ -4,7 +4,7 @@
 We see that the script is comprised of all reversible operations.
 
 ## Solution
-We reverse the operations in the reverse order as that of the script. At the time of the challenge I did this entirely in the python interactive shell. Here's an excerpt from by `.python_history`
+We reverse the operations in the reverse order as that of the script. At the time of the challenge I did this entirely in the python interactive shell. Here's an excerpt from my `.python_history`
 ```python
 >>> from Crypto.Util.number import bytes_to_long
 >>> bytes_to_long(b'\x0c\x07\x9e\x8e/\xc2')
